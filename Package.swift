@@ -5,7 +5,7 @@ let package = Package(
     name: "VerovioToolkit",
     platforms: [
         .iOS(.v16),
-        .macOS(.v11)
+        .macOS(.v11),
         .visionOS(.v1)
     ],
     products: [
